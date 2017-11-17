@@ -1,0 +1,49 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+body {
+	font-family: lato;
+	font-size: 16px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.menu {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff !important;
+}
+.icon-block {
+  	padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.imagem {
+    width: 37%;
+}
+.titulo-topo {
+    text-align: center;
+    margin-top: 25px;
+    clear: both;
+}
+.titulo-topo > h2 {
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #29b6f6;
+}
+.resposta {
+	color:#FF0000;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
